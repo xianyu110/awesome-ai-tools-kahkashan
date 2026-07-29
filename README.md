@@ -62,6 +62,7 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | ---------------------------------------------------------------------------- | ----------------------------------------------------- | -------- | --------------------------------------------- |
 | [Midjourney](https://www.midjourney.com)                                     | High-quality AI art generator via Discord.            | Paid     | Trial discontinued                            |
 | [DALL·E 3 (OpenAI)](https://openai.com/dall-e)                               | Generate detailed images via ChatGPT or API.          | Freemium | Free in ChatGPT Plus or 15 credits via OpenAI |
+| [GPT Image 2](https://gptimage2.asia/)                                      | Generate and edit marketing visuals, ecommerce assets, social posts, and branded images. | Freemium | Free credits / freemium access                  |
 | [Leonardo AI](https://leonardo.ai)                                           | Realistic art for games, design, and concepts.        | Freemium | 150 free tokens/day                           |
 | [Bing Image Creator](https://www.bing.com/images/create)                     | Microsoft’s free DALL·E 3-powered generator.          | Free     | 15 boosts/day                                 |
 | [Craiyon](https://www.craiyon.com)                                           | Lightweight, open-source DALL·E Mini.                 | Free     | Unlimited (with ads)                          |
